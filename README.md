@@ -1,0 +1,2 @@
+# CFGAN
+Implementation of CFGAN
